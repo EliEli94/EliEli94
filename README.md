@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EliEli94
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning flutter development and C programming 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in ML, web and software development
+- 🌱 I’m currently ML and C programming 
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me ... @EliEli94
 
 <!---
 EliEli94/EliEli94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
