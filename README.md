@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Livingstone Eli Ayivor
 - 👀 I’m interested in ML, web and software development
-- 🌱 I’m currently ML and C programming 
+- 🌱 I’m currently learning ML and C programming 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ... @EliEli94
 
