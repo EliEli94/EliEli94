@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Livingstone Eli Ayivor
-- 👀 I’m interested in AI, web and software development
-- 🤹 Some of my skills are Backend developement with Laravel Framework, Database design with MySQL, C, Python
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in AI, web and software development and bioengineering
+- 🤹 Some of my skills are Backend developement with Laravel Framework, Database design with Mysql, PHP, C and Python
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ... @EliEli94
 
